@@ -1,5 +1,5 @@
 name: ROOT
 title: Test 1 Documentation
 version: ~
-nav:
- - 'modules/ROOT/pages/nav.adoc'
+# nav:
+#  - 'modules/ROOT/pages/nav.adoc'
