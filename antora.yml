@@ -1,5 +1,0 @@
-name: ROOT
-title: Test 1 Documentation
-version: ~
-nav:
- - 'docs/modules/ROOT/pages/nav.adoc'
