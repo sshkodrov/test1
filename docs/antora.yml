@@ -2,4 +2,4 @@ name: ROOT
 title: Test 1 Documentation
 version: ~
 nav:
- - 'ROOT/nav.adoc'
+ - 'ROOT/modules/pages/nav.adoc'
