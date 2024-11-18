@@ -1,5 +1,4 @@
-name: 'test1'
+name: test1
+title: Test1 Documentation
 version: '1.0'
-title: "Repo 1 Documentation"
-nav:
-- docs/index.adoc
+
