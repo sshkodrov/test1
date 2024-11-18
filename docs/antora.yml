@@ -1,4 +1,4 @@
 name: ROOT
 title: Test 1 Documentation
 version: '1.0'
-start_page: ROOT::index.adoc
+start_page: modules/ROOT/pages/index.adoc
