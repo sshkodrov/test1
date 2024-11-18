@@ -1,5 +1,5 @@
 name: test1
 title: Test1 Documentation
 version: '1.0'
-  - nav:
-      'docs/index.adoc'
+nav:
+ - 'docs/index.adoc'
