@@ -1,5 +1,4 @@
 name: ROOT
 title: Test 1 Documentation
 version: '1.0'
-# nav:
-#  - 'modules/ROOT/pages/nav.adoc'
+start_page: index.adoc
