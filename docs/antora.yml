@@ -1,4 +1,0 @@
-name: test1
-title: Test1 Documentation
-version: '1.0'
-start_page: docs/index.adoc  # Directly specify the start page within the module
