@@ -1,5 +1,5 @@
 name: ROOT
-title: Test1 Documentation
-version: '1.0'
+title: Test 1 Documentation
+version: ~
 nav:
  - 'docs/index.adoc'
