@@ -1,1 +1,1 @@
-* xref:index1.adoc[Optional link text] 
+* xref:pages/index1.adoc[Optional link text] 
