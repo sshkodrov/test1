@@ -1,2 +1,2 @@
-*xref:named-module:index1.adoc
+*xref named-module:index1.adoc
 
