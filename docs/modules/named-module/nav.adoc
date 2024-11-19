@@ -1,1 +1,1 @@
-* xref: named-module:index1.adoc[Optional link text] 
+* xref:named-module:index1.adoc[]
