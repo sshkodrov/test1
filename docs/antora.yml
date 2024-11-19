@@ -2,5 +2,9 @@ name: test1
 title: Test 1 Documentation
 version: ~
 start_page: 'named-module:index.adoc'
- - 'named-module:index1.adoc'
-
+ 
+modules:
+  - name: named-module
+    pages:
+      - index.adoc
+      - index1.adoc
