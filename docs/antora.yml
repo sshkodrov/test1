@@ -2,6 +2,3 @@ name: test1
 title: Test 1 Documentation
 version: ~
 start_page: 'named-module:index.adoc'
-nav:
-- title: 'Second Test 1 Documentatin'
-  url: 'named-module:index1.adoc'
