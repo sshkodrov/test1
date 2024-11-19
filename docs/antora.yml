@@ -2,5 +2,8 @@ name: test1
 title: Test 1 Documentation
 version: ~
 start_page: 'named-module:index.adoc'
-nav:
-- modules/named-module/pages/nav.adoc
+
+name: test1
+title: Test 12 Documentation
+version: ~
+start_page: 'named-module:index1.adoc'
