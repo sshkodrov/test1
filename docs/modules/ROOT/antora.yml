@@ -1,4 +1,4 @@
 name: test1
 title: Test 1 Documentation
 version: ~
-start_page: 'index'
+start_page: 'test1::index'
