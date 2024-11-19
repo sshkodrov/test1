@@ -2,7 +2,4 @@ name: test1
 title: Test 1 Documentation
 version: ~
 start_page: 'named-module:index.adoc'
-pages:
-  - title: "Page 2"
-    file: "index1.adoc"
 
