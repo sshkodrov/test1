@@ -1,4 +1,4 @@
-= My first document
+= Page 1
 
 This is my first document written for AsciiDoxy.
 
