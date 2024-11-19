@@ -3,7 +3,8 @@ title: Test 1 Documentation
 version: ~
 start_page: 'named-module:index.adoc'
 
-name: test1
-title: Test 12 Documentation
+name: test
+title: Test 
 version: ~
 start_page: 'named-module:index1.adoc'
+
