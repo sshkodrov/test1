@@ -3,4 +3,5 @@ title: Test 1 Documentation
 version: ~
 start_page: 'named-module:index.adoc'
 nav:
-- modules/named-module/pages/nav.adoc
+- title: 'Second Test 1 Documentatin'
+  url: 'named-module:index1.adoc'
