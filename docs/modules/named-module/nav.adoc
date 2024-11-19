@@ -1,1 +1,0 @@
-* xref:named-module:index1.adoc[]
