@@ -1,2 +1,1 @@
-* xref:pages/index.adoc[Home]
-* xref:pages/_index.adoc[Additional Page]
+xref:named-module:index1.adoc[]
