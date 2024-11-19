@@ -1,3 +1,2 @@
-* Unlinked Text
-** xref:named-module:index1.adoc[Linked Text]
-* _Formatted Unlinked Text_
+xref:named-module:index1.adoc
+
