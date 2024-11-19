@@ -2,4 +2,4 @@ name: test1
 title: Test 1 Documentation
 version: ~
 content:
-  start_page: "index.adoc"
+  start_page: index.adoc
