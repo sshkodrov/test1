@@ -6,4 +6,3 @@ This is my first document written for AsciiDoxy.
 
 Today I am so *bold* to write _cursively_ in "`AsciiDoc`".
 
-include::index1.adoc[]
