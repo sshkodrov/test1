@@ -1,2 +1,2 @@
 * xref:pages/index.adoc[Home]
-* xref:pages/index1.adoc[Additional Page]
+* xref:pages/_index.adoc[Additional Page]
