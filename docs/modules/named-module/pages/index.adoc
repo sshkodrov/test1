@@ -5,3 +5,5 @@ This is my first document written for AsciiDoxy.
 == The story begins
 
 Today I am so *bold* to write _cursively_ in "`AsciiDoc`".
+
+include::index1.adoc[]
