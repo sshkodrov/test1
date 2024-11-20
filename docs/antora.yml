@@ -1,6 +1,6 @@
-name: test1
+name: ROOT
 title: Test 1 Documentation
 version: ~
-start_page: 'named-module:index.adoc'
+# start_page: 'named-module:index.adoc'
 nav:
 - 'modules/named-module/pages/nav.adoc'
