@@ -88,7 +88,7 @@
 
 = 22.FleetMD
 
-* Need a second opinion if this is exactly the right solution for us . FleetMD Free Plan typically supports a smaller number of devices. For example, some device management services offer free plans for up to 10 or 20 devices. If you want to manage 50 devices, you might be required to upgrade to a paid plan, as the free tier may not support this many devices.
+* FleetMD Free Plan typically supports a smaller number of devices. For example, some device management services offer free plans for up to 10 or 20 devices. If you want to manage 50 devices, you might be required to upgrade to a paid plan, as the free tier may not support this many devices.
 
 
 
