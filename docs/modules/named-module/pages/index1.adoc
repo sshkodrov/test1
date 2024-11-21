@@ -1,74 +1,68 @@
 = 1.WSO2 Enterprise Mobility Manager (EMM)
 
-
 * WSO2 Enterprise Mobility Manager (EMM) pricing is typically based on a subscription model, where costs depend on factors such as the number of devices to be managed,
-
 
 = 2.Kandji
 
 * 21-day free trial. No credit card required.
 
-= 3.aPuppet
-
-???
-
-= 4.Miradore
+= 3.Miradore
 
 * Includes a free 14-day trial
 
-= 5.Scalefusion MDM
+= 4.Scalefusion MDM
 
 * 14 Day Free Trial. No Credit Card required.
 
-= 6.ManageEngine MDM
+= 5.ManageEngine MDM
 
 * START YOUR 30-DAY FREE TRIAL
 
-= 7.Flyve MDM
+= 6.Flyve MDM
 
 * For the moment, the Flyve MDM project is therefore archived (on Github https://github.com/flyve-mdm/).
 
-= 8. jamf
+= 7. jamf
 
-*Jamf is a paid solution, and the pricing is generally based on the number of devices managed, along with the specific plan you choose. While it offers powerful features for       - Apple devices, it is not free.
+* Jamf is a paid solution, and the pricing is generally based on the number of devices managed, along with the specific plan you choose. While it offers powerful features for - Apple devices, it is not free.
 
-= 9. SimpleMDM
+= 8. SimpleMDM
 
 * We do not support Android, Windows, or any other non-Apple device platforms.
 
-= 10.  Hexnode
+= 9.  Hexnode
 
 * Try Hexnode free for 14 days
 
-= 11. NinjaOne
+= 10. NinjaOne
 
 * Start a Free Trial
 
-= 12. Baramundi
+= 11. Baramundi
  * Get a free trial or personalized demo
 
-= 13. Rippling
+= 12. Rippling
 
 * Rippling offers a subscription-based pricing model, and the cost is generally based on the number of devices being managed, as well as the specific features required.
 
-= 14. Cisco Meraki
+= 13. Cisco Meraki
 
 * Start your free demo today 
 
-= 15. AirDroid Business
+= 14. AirDroid Business
 
 * Try AirDroid Business for 14 Days Free Trial
 
-= 16. SOTI MobiControl
+= 15. SOTI MobiControl
 
 * Begin Your 30-Day Free Trial of the
 * SOTI ONE Platform
 
-= 17. IBM MaaS360:
+= 16. IBM MaaS360:
 
 * 30 days free trial.
 
-= 18. Headwind 
+= 17. Headwind 
 
  * $19.90 / year per device
  * No server expenses
@@ -76,29 +70,27 @@
  * Full-featured system
  * Expedited technical support
 
-= 19. Citrix Endpoint Management 
+= 18. Citrix Endpoint Management 
 
 * Pricing often scales based on the number of devices that need to be managed. The more devices you have, the more expensive the subscription might be.
 
-= 20. MicroMDM
+= 19. MicroMDM
 
 * MicroMDM is an open-source MDM solution primarily targeted at Apple devices,
 
-= 21. 
+= 20. AirWatch
 
-*
+* starts at $4.33 per device/month
 
-= 22.
+= 21.Google's Android Enterprise
 
-*
+* Typical prices range from about $4 to $9 per device per month, depending on the features and scale needed.
 
-= 23.
+= 22.FleetMD
 
-*
+* Need a second opinion if this is exactly the right solution for us . But typically it's free for 100 devices ! 
 
-= 24.
 
-*
 
 
 
