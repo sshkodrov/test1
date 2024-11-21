@@ -70,7 +70,7 @@ SOTI ONE Platform
 
 = 18. Headwind 
 
-  $19.90 / year per device
+ * $19.90 / year per device
     No server expenses
     Pay for your devices only
     Full-featured system
