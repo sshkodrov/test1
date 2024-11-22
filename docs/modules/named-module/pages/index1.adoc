@@ -90,7 +90,26 @@
 
 * FleetMD Free Plan typically supports a smaller number of devices. For example, some device management services offer free plans for up to 10 or 20 devices. If you want to manage 50 devices, you might be required to upgrade to a paid plan, as the free tier may not support this many devices.
 
+= 23. Trend Micro
 
+* 30 days free trial :(
+
+= 24. SimpleMDM
+
+* Create a SimpleMDM account to start your free 30-day trial.
+
+= 25. DriveStrike
+
+* If devices 1 to 20 price is $2/per device.
+
+= 26. SureMDM
+
+* $3.99/month
+Per Device
+
+= 27. Moki Total Control
+
+* Fill out the form to get started with a free trial of Moki’s groundbreaking customer-facing, single-purpose devices.
 
 
 
