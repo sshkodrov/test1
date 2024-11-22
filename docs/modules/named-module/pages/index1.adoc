@@ -135,6 +135,9 @@ Per Device
 
 * Genesis(cheapest plan) $2 per device/month
 
+= 34. Zelt
+
+* After free trial -> Core plan(cheapest one)  $5 per seat per month
 
 
 
