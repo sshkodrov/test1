@@ -131,6 +131,11 @@ Per Device
 
 * Test our MDM solution for 30 days, then subscribe to one of TinyMDM pricing plans (USD). 
 
+= 33. Esper
+
+* Genesis(cheapest plan) $2 per device/month
+
+
 
 
 
