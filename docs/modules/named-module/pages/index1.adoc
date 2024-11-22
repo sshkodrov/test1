@@ -127,7 +127,9 @@ Per Device
 
 * Free 14-day trial
 
+= 32. TinyMDM 
 
+* Test our MDM solution for 30 days, then subscribe to one of TinyMDM pricing plans (USD). 
 
 
 
