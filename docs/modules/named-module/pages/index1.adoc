@@ -139,6 +139,27 @@ Per Device
 
 * After free trial -> Core plan(cheapest one)  $5 per seat per month
 
+= 35. Cortado MDM
+
+* USD 7.50
+
+= 36. EasyControl MDM
+
+* EasyControl MDM has a free version and offers a free trial. EasyControl MDM paid version starts at US$12.00/year. 
+
+= 37. Mambo
+
+* Price per device / month $0.99
+
+= 38. GridMDM
+
+* Starting from 2/user
+
+= 39. VantageMDM
+
+* Starting from: $0.99/month
+
+
 
 
 
