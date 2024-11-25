@@ -9,6 +9,7 @@
 = 3.Miradore
 
 * Includes a free 14-day trial
+* Also a free plan that can manage up to 50 devices BUT with limited features that do not MEET our GOALS :( !
 
 = 4.Scalefusion MDM
 
